@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.49",
+  "importer": "prefab",
+  "imported": true,
+  "uuid": "3ddd0dbd-1a33-49d6-b586-055aa8e9a50b",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "plane01"
+  }
+}
